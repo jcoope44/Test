@@ -1,0 +1,3 @@
+﻿  sortingApples.cpp
+c:\users\james\source\repos\sortingapples\sortingapples\sortingapples.cpp(43): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  SortingApples.vcxproj -> C:\Users\James\source\repos\SortingApples\Debug\SortingApples.exe
